@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### MySelf HridoyAlam
-### 🌱 I’m currently learning Django
+### 🌱 I’m currently doomed
 
 <!--
 **HridoyAlam/HridoyAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
