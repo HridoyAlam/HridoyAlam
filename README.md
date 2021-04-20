@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### MySelf HridoyAlam
 ### 🌱 I’m currently doomed
-![hridoy-alam](https://user-images.githubusercontent.com/27436608/108606560-ecf2b980-73e4-11eb-9d90-648c47422a1e.jpg)
+![hridoy-alam]
 <!--
 **HridoyAlam/HridoyAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
