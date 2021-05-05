@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### MySelf HridoyAlam
 ### 🌱 I’m currently doomed
-![hridoy-alam]
+[Know more about me](https://hridoyalam.github.io/Portfoilio_html_css_javascripte/)
 <!--
 **HridoyAlam/HridoyAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
