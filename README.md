@@ -1,8 +1,8 @@
 ### Hi there 👋
-### MySelf HridoyAlam
-# 🌱 I’m currently doomed
-# 🔭 I’m currently working at Opus Technology as an AI Engineer
-# 🌱 I’m currently learning Financial data analysis
+# MySelf HridoyAlam
+##### 🌱 I’m currently doomed
+##### 🔭 I’m currently working at Opus Technology as an AI Engineer
+##### 🌱 I’m currently learning Financial data analysis
 [Know more about me](https://hridoyalam.github.io/Portfoilio_html_css_javascripte/)
 <!--
 **HridoyAlam/HridoyAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
